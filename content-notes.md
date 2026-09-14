@@ -4,6 +4,7 @@
 * **Full Name:** Venkat Repaka
 * **Phone Number: ** (111)-111-1111
 * **Professional Title** Graduate Student in Artificial Intelligence
+* **Birthday**: January 1, 1990
 * **Email:** venkat.repaka@umich.edu
 * **Location:** Troy, Michigan
 * **X (Twitter):** https://x.com/repakave
@@ -17,7 +18,7 @@ My approach is to keep changes small and reviewable: clear commit history, tests
 
 ## Education
 * **Degree:** Master of Science in Artificial Intelligence 
-* **Institution:** University of Michigan-Dearborn / University of Michigan-Flint
+* **Institution:** University of Michigan-Flint
 * **Previous Degree:** Bachelor of Technology in Metallurgical Engineering, Malaviya National Institute of Technology (MNIT Jaipur)
 
 ## What am I studying now?
@@ -34,11 +35,19 @@ My approach is to keep changes small and reviewable: clear commit history, tests
 * **Languages & Frameworks:** Java, JavaScript, HTML/CSS, etc.
 * **Tools & Technologies:** Git, GitHub, GitHub Copilot, SQL
 
-## Projects
-* **Project 1 Title:** AI-Assisted Portfolio Website
-  * Description: A customized personal portfolio built using an HTML/CSS/JavaScript template, integrated with GitHub workflows and AI-assisted development.
-* **Project 2 Title:** System Design & AI Cohort Projects
-  * Description: Collaborative projects focused on system design and AI applications, developed as part of coursework and team assignments.
+## Resume
+#### Education
+* **Bachelor of Technlogy in Metallurgical Engineering** — Malaviya National Institute of Technology (MNIT Jaipur)
+* **Master of Science in Artificial Intelligence** — University of Michigan-Flint
+
+#### Experience
+* **Software Engineer** Full stack developer
+
+## My Skills
+* **React/Angular:** 20%
+* **Node.js/Express:** 20%
+* **Java:** 50%
+* **AWS:** 10%
 
 ## Links
 * **GitHub:** https://github.com/venkatrepaka-umich
